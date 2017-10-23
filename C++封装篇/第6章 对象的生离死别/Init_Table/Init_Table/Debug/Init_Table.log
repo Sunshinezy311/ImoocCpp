@@ -1,0 +1,13 @@
+﻿生成启动时间为 2016/12/26 11:24:48。
+     1>项目“C:\Users\Coolkie\Desktop\C++封装篇\第6章 对象的生离死别\constructor\Init_Table\Init_Table\Init_Table.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Teacher.cpp
+         Teacher.cpp
+     1>c:\users\coolkie\desktop\c++封装篇\第6章 对象的生离死别\constructor\init_table\init_table\teacher.cpp(18): error C2758: “Teacher::m_iMax”: 必须初始化引用类型的成员
+                 c:\users\coolkie\desktop\c++封装篇\第6章 对象的生离死别\constructor\init_table\init_table\teacher.h(19) : 参见“Teacher::m_iMax”的声明
+     1>c:\users\coolkie\desktop\c++封装篇\第6章 对象的生离死别\constructor\init_table\init_table\teacher.cpp(19): error C2166: 左值指定 const 对象
+     1>已完成生成项目“C:\Users\Coolkie\Desktop\C++封装篇\第6章 对象的生离死别\constructor\Init_Table\Init_Table\Init_Table.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.69

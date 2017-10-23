@@ -1,0 +1,6 @@
+﻿  demo.cpp
+d:\onedrive - word.axial.edu.au\code study\c++\慕课网c++学习代码\数据结构探险——树篇\binary_tree\binary_tree\link_tree.h(49): error C2440: '=': cannot convert from 'int *' to 'Node<int> *'
+  d:\onedrive - word.axial.edu.au\code study\c++\慕课网c++学习代码\数据结构探险——树篇\binary_tree\binary_tree\link_tree.h(49): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+  d:\onedrive - word.axial.edu.au\code study\c++\慕课网c++学习代码\数据结构探险——树篇\binary_tree\binary_tree\link_tree.h(46): note: while compiling class template member function 'bool Link_Tree<int>::Add_Node(int,int,Node<int> *)'
+  d:\onedrive - word.axial.edu.au\code study\c++\慕课网c++学习代码\数据结构探险——树篇\binary_tree\binary_tree\demo.cpp(72): note: see reference to function template instantiation 'bool Link_Tree<int>::Add_Node(int,int,Node<int> *)' being compiled
+  d:\onedrive - word.axial.edu.au\code study\c++\慕课网c++学习代码\数据结构探险——树篇\binary_tree\binary_tree\demo.cpp(71): note: see reference to class template instantiation 'Link_Tree<int>' being compiled

@@ -1,0 +1,21 @@
+﻿生成启动时间为 2016/12/22 15:52:25。
+     1>项目“C:\Users\Coolkie\Desktop\C++封装篇\第5章 精彩的类外定义\Outer_Class_Define\Outer_Class_Define\Outer_Class_Define.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt demo.cpp
+         demo.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Coolkie\Desktop\C++封装篇\第5章 精彩的类外定义\Outer_Class_Define\Debug\Outer_Class_Define.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Coolkie\Desktop\C++封装篇\第5章 精彩的类外定义\Outer_Class_Define\Debug\Outer_Class_Define.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Coolkie\Desktop\C++封装篇\第5章 精彩的类外定义\Outer_Class_Define\Debug\Outer_Class_Define.lib" /MACHINE:X86 Debug\demo.obj
+         Debug\Teacher.obj
+     1>demo.obj : error LNK2005: "public: int __thiscall Teacher::getAge(void)" (?getAge@Teacher@@QAEHXZ) 已经在 Teacher.obj 中定义
+     1>demo.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Teacher::getGender(void)" (?getGender@Teacher@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) 已经在 Teacher.obj 中定义
+     1>demo.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Teacher::getName(void)" (?getName@Teacher@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) 已经在 Teacher.obj 中定义
+     1>demo.obj : error LNK2005: "public: void __thiscall Teacher::setAge(int)" (?setAge@Teacher@@QAEXH@Z) 已经在 Teacher.obj 中定义
+     1>demo.obj : error LNK2005: "public: void __thiscall Teacher::setGender(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?setGender@Teacher@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 已经在 Teacher.obj 中定义
+     1>demo.obj : error LNK2005: "public: void __thiscall Teacher::setName(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?setName@Teacher@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 已经在 Teacher.obj 中定义
+     1>demo.obj : error LNK2005: "public: void __thiscall Teacher::teach(void)" (?teach@Teacher@@QAEXXZ) 已经在 Teacher.obj 中定义
+     1>C:\Users\Coolkie\Desktop\C++封装篇\第5章 精彩的类外定义\Outer_Class_Define\Debug\Outer_Class_Define.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“C:\Users\Coolkie\Desktop\C++封装篇\第5章 精彩的类外定义\Outer_Class_Define\Outer_Class_Define\Outer_Class_Define.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.04

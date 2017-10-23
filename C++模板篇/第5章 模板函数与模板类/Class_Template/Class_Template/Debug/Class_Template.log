@@ -1,0 +1,13 @@
+﻿  demo.cpp
+d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\myarray.h(25): error C2065: 'Kval': undeclared identifier
+  d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\myarray.h(21): note: while compiling class template member function 'MyArray<int,5,6>::MyArray(void)'
+  d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\demo.cpp(8): note: see reference to function template instantiation 'MyArray<int,5,6>::MyArray(void)' being compiled
+  d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\demo.cpp(8): note: see reference to class template instantiation 'MyArray<int,5,6>' being compiled
+d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\myarray.h(39): error C2143: syntax error: missing ';' before ':'
+  d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\myarray.h(38): note: while compiling class template member function 'void MyArray<int,5,6>::display(void)'
+  d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\demo.cpp(9): note: see reference to function template instantiation 'void MyArray<int,5,6>::display(void)' being compiled
+d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\myarray.h(39): error C2143: syntax error: missing ')' before ':'
+d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\myarray.h(39): error C2059: syntax error: ':'
+d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\myarray.h(39): error C2059: syntax error: ')'
+d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\myarray.h(40): error C2143: syntax error: missing ';' before '{'
+d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第5章 模板函数与模板类\class_template\class_template\myarray.h(41): error C2065: 'i': undeclared identifier

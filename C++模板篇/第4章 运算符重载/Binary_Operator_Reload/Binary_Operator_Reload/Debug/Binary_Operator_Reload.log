@@ -1,0 +1,6 @@
+﻿  demo.cpp
+  Coordinate.cpp
+  Generating Code...
+d:\onedrive - word.axial.edu.au\虚拟机共享文件夹\c++模板篇\第4章 运算符重载\binary_operator_reload\binary_operator_reload\coordinate.cpp(88): warning C4715: 'Coordinate::operator[]': not all control paths return a value
+  Binary_Operator_Reload.vcxproj -> D:\OneDrive - word.axial.edu.au\虚拟机共享文件夹\C++模板篇\第4章 运算符重载\Binary_Operator_Reload\Debug\Binary_Operator_Reload.exe
+  Binary_Operator_Reload.vcxproj -> D:\OneDrive - word.axial.edu.au\虚拟机共享文件夹\C++模板篇\第4章 运算符重载\Binary_Operator_Reload\Debug\Binary_Operator_Reload.pdb (Partial PDB)

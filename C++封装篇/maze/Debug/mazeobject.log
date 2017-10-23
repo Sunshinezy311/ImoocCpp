@@ -1,0 +1,9 @@
+﻿  MyMazer.cpp
+  MyMazeMap.cpp
+  MazePerson.cpp
+  MazeMap.cpp
+  maze.cpp
+  Generating Code...
+maze.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  mazeobject.vcxproj -> D:\OneDrive - word.axial.edu.au\虚拟机共享文件夹\C++封装篇\maze\.\Debug\mazeobject.exe
+  mazeobject.vcxproj -> .\Debug/mazeobject.pdb (Full PDB)
